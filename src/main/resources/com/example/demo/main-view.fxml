@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+
+<?import javafx.scene.control.Label?>
+<TabPane stylesheets="@style.css" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="660.0" minWidth="1020.0" prefHeight="679.0" prefWidth="1030.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.controller.MainController">
+    <tabs>
+        <Tab text="Summary">
+            <content>
+                <fx:include fx:id="summaryPage" source="summary-page.fxml" />
+            </content>
+        </Tab>
+        <Tab text="Table">
+            <content>
+                <fx:include fx:id="tablePage" source="table-page.fxml" />
+            </content>
+        </Tab>
+        <Tab text="Trend">
+            <content>
+                <fx:include fx:id="trendPage" source="trend-page.fxml" />
+            </content>
+        </Tab>
+        <Tab text="About" >
+            <content>
+                <Label text="Coauthor: IskXCr. Template created at 12/13/2022."/>
+            </content>
+        </Tab>
+    </tabs>
+</TabPane>

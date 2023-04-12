@@ -22,6 +22,6 @@ Test Group
 
 ## Effects
 
-![image-20230412233949361](readme_img\1.png)
+![image-20230412233949361](readme_img/1.png)
 
-![image-20230412234020072](readme_img\2.png)
+![image-20230412234020072](readme_img/2.png)

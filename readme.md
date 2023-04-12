@@ -20,3 +20,8 @@ Test Group
 | 10    | Use other fancy visualization (such as map and 3D rendering etc.) to display. |              |         |
 |       | <Sum of the bonus requirements>                              |              |         |
 
+## Effects
+
+![image-20230412233949361](readme_img\1.png)
+
+![image-20230412234020072](readme_img\2.png)

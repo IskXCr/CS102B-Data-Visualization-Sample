@@ -1,5 +1,7 @@
 # CS102B Project Report
-Test Group
+SUSTech Java Programming Project Sample (2022-Fall)
+Contributors: [IskXCr](https://github.com/IskXCr), [XinJiayi](https://github.com/XinJiayi)
+This project contains a `DataManager` and several core JavaFX pages (created by SceneBuilder).
 
 ## Satisfied Requirements
 
